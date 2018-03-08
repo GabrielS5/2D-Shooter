@@ -1,0 +1,44 @@
+﻿  Arme.cpp
+Arme.cpp(6): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Arme.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Arme.cpp(69): warning C4018: '<': signed/unsigned mismatch
+Arme.cpp(91): warning C4018: '<': signed/unsigned mismatch
+Arme.cpp(135): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Auto.cpp
+  AutoShotgun.cpp
+  Glont.cpp
+Glont.cpp(6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Glont.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Inamici.cpp
+Inamici.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Inamici.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Inamici.cpp(39): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+Inamici.cpp(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Inamici.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Inamici.cpp(60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Isis.cpp
+  Jucator.cpp
+Jucator.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+Jucator.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+Jucator.cpp(35): warning C4018: '<': signed/unsigned mismatch
+Jucator.cpp(47): warning C4018: '<': signed/unsigned mismatch
+Jucator.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Jucator.cpp(71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Jucator.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Jucator.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Jucator.cpp(131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SemiAuto.cpp
+  Shotgun.cpp
+  Source.cpp
+Source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(116): warning C4305: 'argument': truncation from 'double' to 'float'
+Source.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Source.cpp(116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source.cpp(200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source.cpp(201): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source.cpp(213): warning C4018: '<': signed/unsigned mismatch
+  Teren.cpp
+Teren.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TextureManagerIsis.cpp
+  TextureManagerPlayer.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
